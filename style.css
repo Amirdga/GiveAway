@@ -1,0 +1,36 @@
+.box{
+    background-color: rgba(32,0,23,0.09);
+    margin-left: 270px;
+    margin-top: 160px;
+    width: 800px;
+    height: 422px;
+    text-align: center;
+    color: #52AB5B;
+    border-radius: 25px;
+}
+.submit{
+    margin-top: 157px;
+
+}
+.textarea{
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+}
+.seystem{
+    direction: rtl;
+}
+.number{
+    width: 100px;
+}
+.number2 {
+    width: 100px;
+}
+.boxToBox{
+    width: 740px;
+    height: 103px;
+    background-color: mediumaquamarine;
+    margin-left: 30px;
+    margin-top: 60px;
+
+}
